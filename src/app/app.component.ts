@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular1';
+  title = 'Bienvenue sur le site de Vincent Rouget !';
 }
